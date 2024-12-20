@@ -1,16 +1,19 @@
-# grocery_shop
+# Grocer – Grocery Delivery App
 
-A new Flutter project.
+Grocer is a user-friendly grocery delivery app built with Flutter, designed to provide a seamless shopping experience from browsing fresh produce to payment.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+● **Categories & Items:** Explore fresh produce like fruits and vegetables.
+● **Cart & Checkout:** Easily add items to your cart, view the total, and pay securely with a Pay Now button.
+● **Simple Navigation:** A sleek design for a frictionless user journey.
+● **Fast & Fresh Delivery:** Ensuring high-quality groceries at your doorstep.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+● **Flutter:** For cross-platform compatibility.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## App
+![linkedin](https://github.com/user-attachments/assets/a0dd3730-4ca2-473c-8478-fc6179963b6b)
+
